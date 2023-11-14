@@ -1,0 +1,18 @@
+.custom-font-size {
+  font-size: 22px;
+}
+
+.active-link {
+  color: white !important;
+}
+
+.authors {
+  margin-left: 678px; 
+  margin-right: 1rem;
+  @media (max-width: 767px) {
+      margin-left: 0; 
+  }
+}
+.liked {
+  margin-right: 1rem;
+}
