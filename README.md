@@ -1,5 +1,7 @@
 # Vercel React Blog App
 
+video demo: https://youtu.be/QTDPN1DfXVQ?si=_ZnoCtJ31XgA4uEW
+
 A multi-page blog application built with React and Bootstrap. The app features responsive author pages, blog post pages, and an interactive comment section. Designed for clean layout, scalable components, and cross-device usability.
 
 ## Features
